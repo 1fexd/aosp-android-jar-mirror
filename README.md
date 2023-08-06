@@ -2,13 +2,13 @@
 
 A mirror of [Reginer's aosp-android-jar repository](https://github.com/Reginer/aosp-android-jar)
 
-**Note:** android-31.jar appears to have been accidentially removed upstream. I have restored it from the Git history.
+**Note:** `android-31.jar` appears to have been accidentially removed upstream and was therefore restored from the repositories Git history.
 
 ## Installation
 
 * Download the JAR file for the SDK level you want to modify.
 * Locate your Android SDK directory (this can be done by scrolling down to "External libraries" in an Android Studio
-  project, then right-clicking the android.jar file and selecting "Open in" -> "Explorer")
+  project, then right-clicking the "android.jar" file and selecting "Open in" -> "Explorer")
 
 ![](resource/img.png)
 
